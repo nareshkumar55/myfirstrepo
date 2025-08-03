@@ -1,0 +1,7 @@
+<!--example on html attributes-->
+<!DOCTTPE html>
+<html lang="en">
+<head>
+</head>
+<body bgcolor="red">
+
